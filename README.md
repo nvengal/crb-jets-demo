@@ -1,11 +1,3 @@
-# Jets Project
+# Demo Ruby on Jets Application for Columbus Ruby Brigade
 
-This README would normally document whatever steps are necessary to get the application up and running.
-
-Things you might want to cover:
-
-* Dependencies
-* Configuration
-* Database setup
-* How to run the test suite
-* Deployment instructions
+[Jets](https://github.com/tongueroo/jets)
